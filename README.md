@@ -26,9 +26,11 @@ Finance View,Supply Chain View,Sales &amp; Marketing Views
 
 ## Creating Visualisations 
 
-![Screenshot_16-7-2024_04513_](https://github.com/user-attachments/assets/3b279387-8fb8-40f1-a365-595c3994f147)
+![Screenshot_16-7-2024_04528_](https://github.com/user-attachments/assets/3b279387-8fb8-40f1-a365-595c3994f147)
+![Screenshot_16-7-2024_04567_](https://github.com/user-attachments/assets/cf230c7e-77a7-4fef-9d86-17e499a76ddc)
+![Screenshot_16-7-2024_04549_](https://github.com/user-attachments/assets/cf230c7e-77a7-4fef-9d86-17e499a76ddc)
 ![Screenshot_16-7-2024_04530_](https://github.com/user-attachments/assets/cf230c7e-77a7-4fef-9d86-17e499a76ddc)
-
+![Screenshot_16-7-2024_04513_](https://github.com/user-attachments/assets/cf230c7e-77a7-4fef-9d86-17e499a76ddc)
 
 
 
