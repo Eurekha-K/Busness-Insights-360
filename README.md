@@ -30,9 +30,9 @@ Finance View,Supply Chain View,Sales &amp; Marketing Views
 ![Screenshot_16-7-2024_04352_](https://github.com/user-attachments/assets/7c8de7b6-82a2-421a-80c6-8d0caac1143a)
 
 
-
-![Screenshot_16-7-2024_04530_](https://github.com/user-attachments/assets/981f6873-1312-40c1-ab10-60da32e9a9ba)
 ![Screenshot_16-7-2024_04528_](https://github.com/user-attachments/assets/3b279387-8fb8-40f1-a365-595c3994f147)
+![Screenshot_16-7-2024_04530_](https://github.com/user-attachments/assets/981f6873-1312-40c1-ab10-60da32e9a9ba)
+
 ![Screenshot_16-7-2024_04628_](https://github.com/user-attachments/assets/c5fab4ae-e5de-4db5-a1d6-c510bbdf8148)
 
 
