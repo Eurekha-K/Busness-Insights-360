@@ -21,6 +21,8 @@ Finance View,Supply Chain View,Sales &amp; Marketing Views
 ## 2.Data Preprocessing & Transformation
 
 ## 3.Data Modelling
+![WhatsApp Image 2024-07-16 at 1 53 31 PM](https://github.com/user-attachments/assets/b5f10d18-09e2-4a88-90c3-7694a89b9d22)
+
 
 ## Creating Custom Columns & Measures Using Dax
 
