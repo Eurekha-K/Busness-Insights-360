@@ -1,7 +1,20 @@
 # Busness-360
 Finance View,Supply Chain View,Sales &amp; Marketing Views
 
+About AtliQ Hardware
+AtliQ Hardware manufactures and sells hardware like PC, Mouse, Printers etc to multiple companies across the world. AtliQ’s customers are companies like Croma, Amazon, Neptune, Staples, Walmart etc.
+These customers are of two types – Physical Stores and E-commerce platforms.
 
+Problem Statement
+AtliQ Hardware is struggling to do good business in Latin America.
+So far all the decisions that AtliQ took have been based on some surveys and intuitions.
+
+The company was doing some analysis using MS Excel files because of limited data. Now that the company has grown and has plenty of data to analyse, the management has decided to hire a Data Analyst. The management wants Data Analysts to utilise this data to make accurate and informed decisions.
+
+Management’s Dashboard Requirements
+The management wants to see these reports in the Power BI Dashboard:
+
+Finance View – This will show the profit and loss statements across different products, markets, customers
 
 # Input Data Set
 
