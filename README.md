@@ -72,7 +72,7 @@ Supply Chain View
 
 ![Screenshot_16-7-2024_142754_](https://github.com/user-attachments/assets/fcad4518-4617-4667-bf68-329f18b3755c)
 
-
+Key Insights
 
 ![Screenshot_16-7-2024_04628_](https://github.com/user-attachments/assets/c5fab4ae-e5de-4db5-a1d6-c510bbdf8148)
 
