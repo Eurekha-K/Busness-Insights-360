@@ -16,6 +16,12 @@ The management wants to see these reports in the Power BI Dashboard:
 
 Finance View – This will show the profit and loss statements across different products, markets, customers
 
+Marketing View – Similar data as of Sales View but product based instead of customers.
+
+Supply Chain – Reliability and accuracy to better understand the supply chain performance.
+
+Executive View – Thi includes the integrated view of key insights for executives.
+
 # Input Data Set
 
  1.dim_customer
