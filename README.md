@@ -5,7 +5,8 @@ About AtliQ Hardware
 AtliQ Hardware manufactures and sells hardware like PC, Mouse, Printers etc to multiple companies across the world. AtliQ’s customers are companies like Croma, Amazon, Neptune, Staples, Walmart etc.
 These customers are of two types – Physical Stores and E-commerce platforms.
 
-Problem Statement
+Problem Statement:
+
 AtliQ Hardware is struggling to do good business in Latin America.
 So far all the decisions that AtliQ took have been based on some surveys and intuitions.
 
