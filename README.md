@@ -56,10 +56,20 @@ Executive View – Thi includes the integrated view of key insights for executiv
 
 ![Screenshot_16-7-2024_04352_](https://github.com/user-attachments/assets/7c8de7b6-82a2-421a-80c6-8d0caac1143a)
 
+Finance View
 
 ![Screenshot_16-7-2024_04528_](https://github.com/user-attachments/assets/3b279387-8fb8-40f1-a365-595c3994f147)
+
+Sales View
+
 ![Screenshot_16-7-2024_04530_](https://github.com/user-attachments/assets/981f6873-1312-40c1-ab10-60da32e9a9ba)
+
+Marketing View
+
 ![Screenshot_16-7-2024_142732_](https://github.com/user-attachments/assets/ca86a7e7-acd1-41d0-93be-a6f7b4bcaa4e)
+
+Supply Chain View
+
 ![Screenshot_16-7-2024_142754_](https://github.com/user-attachments/assets/fcad4518-4617-4667-bf68-329f18b3755c)
 
 
