@@ -31,9 +31,10 @@ Finance View,Supply Chain View,Sales &amp; Marketing Views
 ![WhatsApp Image 2024-07-16 at 1 53 31 PM](https://github.com/user-attachments/assets/b5f10d18-09e2-4a88-90c3-7694a89b9d22)
 
 
-## Creating Custom Columns & Measures Using Dax
+4.Creating Custom Columns & Measures Using Dax
 
- Creating Visualisations 
+5.Creating Visualisations & Reports
+
 ![Screenshot_16-7-2024_04352_](https://github.com/user-attachments/assets/7c8de7b6-82a2-421a-80c6-8d0caac1143a)
 
 
